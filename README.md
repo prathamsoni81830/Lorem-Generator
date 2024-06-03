@@ -1,4 +1,7 @@
+Project Live Link : https://lorem-generator-lovat.vercel.app/
+Tired of using boring Lorem-Ipsum texts ?..This project will generate  random paragraph according to your requirement.
 # React + Vite
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
